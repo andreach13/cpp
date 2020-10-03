@@ -1,0 +1,1 @@
+g++ ./menujuegos.cpp ./startShip.cpp ./snake.cpp ./ahorcado.cpp -o menu.exe
